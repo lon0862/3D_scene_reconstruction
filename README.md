@@ -29,10 +29,15 @@ the first or second floor ( (0, 0, 0) for first floor and (0, 1, 0) for
 second floor.
 
 # Task 1
-1. Data collection: <br>
-run the following command and use WAD to move camera, then use S to save front view's and BEV's rgb image 
+- Data collection: <br>
+run the following command and use WAD to move camera, then use S to save front view's and BEV's rgb image. 
 ```
 python load_task1.py
+```
+- Get BEV projection
+run the following command and use mouse to select points in the BEV image, when select enough points you want then push down any key you will get projection in front view
+```
+python bev.py
 ```
 ```
 habitat-lab
