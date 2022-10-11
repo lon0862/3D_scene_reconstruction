@@ -4,8 +4,9 @@ In this repository, I complete two tasks for the HW1 of Perception and Decision 
 # Abstact
 Task1: BEV projection<br>
 Select points in the BEV (top view) image on the ground, mark an
-area enclosed by these points, and project the marked area from the
-BEV image to the perspective (front view) image.<br>
+area enclosed by these points.Then project the marked area from the
+BEV image to the perspective (front view) image.<br><br>
+
 Task2: ICP Alignment and Reconstruction<br>
 First using rgb and depth image to construct point cloud,then using open3d ICP and implement my own ICP to build two versions
 of 3D scene.Finally add ground truth trajectory and estimated trajectory to 3D scene.<br>
