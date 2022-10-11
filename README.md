@@ -13,11 +13,11 @@ of 3D scene.Finally add ground truth trajectory and estimated trajectory to 3D s
 
 # Quick Start
 The requirement of the development environments:
-● OS : ubuntu 18.04 , 20.04
-● Python 3.6, 3.7 ( You can use conda to create new environment )
-● opencv-contrib-python
-● Open3d
-● Habitat-lab and Habitat-sim
+- OS : ubuntu 18.04 , 20.04
+- Python 3.6, 3.7 ( You can use conda to create new environment )
+- opencv-contrib-python
+- Open3d
+- Habitat-lab and Habitat-sim
 following the link https://github.com/facebookresearch/habitat-lab
 to install it.
 
