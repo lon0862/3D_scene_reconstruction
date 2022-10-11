@@ -11,6 +11,16 @@ BEV image to the perspective (front view) image.<br>
 First using rgb and depth image to construct point cloud,then using open3d ICP and implement my own ICP to build two versions
 of 3D scene.Finally add ground truth trajectory and estimated trajectory to 3D scene.<br>
 
+# Quick Start
+The requirement of the development environments:
+● OS : ubuntu 18.04 , 20.04
+● Python 3.6, 3.7 ( You can use conda to create new environment )
+● opencv-contrib-python
+● Open3d
+● Habitat-lab and Habitat-sim
+following the link https://github.com/facebookresearch/habitat-lab
+to install it.
+
 ```
 habitat-lab
     +- load_task1.py
