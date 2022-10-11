@@ -1,6 +1,6 @@
 # 3D_scene_reconstruction
 
-'''
+```
 habitat-lab
     +- load_task1.py
     +- load_task2.py
@@ -32,4 +32,4 @@ habitat-lab
 		...
 	    +- GT
 		+- GT.csv
-'''
+```
