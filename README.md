@@ -35,7 +35,9 @@ run the following command and use WAD to move camera, then use S to save front v
 python load_task1.py
 ```
 - Get BEV projection
-run the following command and use mouse to select points in the BEV image, when select enough points you want then push down any key you will get projection in front view
+run the following command and use mouse to select points in the BEV image, when select enough points you want then push down any key you will get projection in front view.<br>
+And what points you select and result of projection will auto save.<br>
+Push down any key again then will finish the program.
 ```
 python bev.py
 ```
