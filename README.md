@@ -30,18 +30,32 @@ second floor.
 
 # Task 1
 - Data collection: <br>
-run the following command and use WAD to move camera, then use S to save front view's and BEV's rgb image. 
+run the following command and use WAD to move camera, then use S to save front view's and BEV's rgb image. <br>
+F key will finish the program without save.
 ```
 python load_task1.py
 ```
 - Get BEV projection: <br>
 run the following command and use mouse to select points in the BEV image, when select enough points you want then push down any key you will get projection in front view.<br>
+what points you select and result of projection will auto save.<br>
+push down any key again then will finish the program.
 ```
 python bev.py
 ```
-And what points you select and result of projection will auto save.<br>
-Push down any key again then will finish the program.
-
+# Task 2
+- Data collection: <br>
+run the following command and use WAD to move camera. <br>
+rgb image, depth image, ground truth trajectory will auto save when you move.<br>
+F key will finish the program.<br>
+O key will clean all rgb image, depth image, ground truth trajectory saved before
+```
+python load_task2.py
+```
+- Reconstruction 3D scene: <br>
+run the following command to reconstruction 3D scene.<br>
+```
+python reconstruct.py
+```
 # Structure of directory
 ```
 habitat-lab
