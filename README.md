@@ -12,7 +12,8 @@ BEV image to the perspective (front view) image.<br>
 First using rgb and depth image to construct point cloud,then using open3d ICP and implement my own ICP to build two versions
 of 3D scene.Finally add ground truth trajectory and estimated trajectory to 3D scene.<br>
 
-![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/3D_scene.png)
+![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/3D_scene.png) ![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/front_projection.png)
+
 # Quick Start
 The requirement of the development environments:
 - OS : ubuntu 18.04 , 20.04
