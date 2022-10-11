@@ -1,4 +1,5 @@
 # 3D_scene_reconstruction
+In this repository, I complete two tasks for the HW1 of Perception and Decision Making in Intelligent Systems, NYCU, in fall 2022.
 
 ```
 habitat-lab
