@@ -7,12 +7,12 @@ Select points in the BEV (top view) image on the ground, mark an
 area enclosed by these points.Then project the marked area from the
 BEV image to the perspective (front view) image.<br>
 
-![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/bev_circle.png) 
+![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/bev_circle.png) ![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/front_projection.png)
 - Task2: ICP Alignment and Reconstruction<br>
 First using rgb and depth image to construct point cloud,then using open3d ICP and implement my own ICP to build two versions
 of 3D scene.Finally add ground truth trajectory and estimated trajectory to 3D scene.<br>
 
-![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/3D_scene.png) ![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/front_projection.png)
+![image](https://github.com/lon0862/3D_scene_reconstruction/blob/main/pictures/3D_scene.png)
 
 # Quick Start
 The requirement of the development environments:
