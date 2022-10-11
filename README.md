@@ -29,7 +29,11 @@ the first or second floor ( (0, 0, 0) for first floor and (0, 1, 0) for
 second floor.
 
 # Task 1
-1. Data collection: 
+1. Data collection: <br>
+run the following command and use WAD to move camera, then use S to save front view's and BEV's rgb image 
+```
+python load_task1.py
+```
 ```
 habitat-lab
     +- load_task1.py
