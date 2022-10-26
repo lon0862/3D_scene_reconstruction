@@ -22,9 +22,11 @@ The requirement of the development environments:
 - Open3d
 - Habitat-lab and Habitat-sim
 following the link https://github.com/facebookresearch/habitat-lab
-to until Installation step3.
-note: replace pip install -e habitat-lab => /home/{user_name}/anaconda3/envs/habitat/bin/pip install -e .
-
+to until Installation step3.<br>
+note: using under code to install habitat_lab
+```
+/home/{user_name}/anaconda3/envs/habitat/bin/pip install -e .
+```
 
 # Download Data
 Download the replica datasets from the link below.<br>
