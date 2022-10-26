@@ -63,6 +63,8 @@ python reconstruct.py
 ```
 habitat-lab
     .......
+    +- replica_v1
+    	+- apartment_0
     +- load_task1.py
     +- load_task2.py
     +- bev.py
