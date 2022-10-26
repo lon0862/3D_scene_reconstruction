@@ -62,6 +62,7 @@ python reconstruct.py
 # Structure of directory
 ```
 habitat-lab
+    .......
     +- load_task1.py
     +- load_task2.py
     +- bev.py
