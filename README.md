@@ -32,7 +32,7 @@ note: using under code to install habitat_lab
 Download the replica datasets from the link below.<br>
 Apartment_0: https://drive.google.com/file/d/1zHA2AYRtJOmlRaHNuXOvC_OaVxHe56M4/view?usp=sharing<br>
 Note : You can change agent_state.position to set the agent in
-the first or second floor ( (0, 0, 0) for first floor and (0, 1, 0) for
+the first or second floor, (0, 0, 0) for first floor and (0, 1, 0) for
 second floor.
 
 # Task 1
