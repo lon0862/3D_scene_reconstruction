@@ -20,7 +20,7 @@ The requirement of the development environments:
 - Python 3.6, 3.7 ( You can use conda to create new environment )
 - opencv-contrib-python
 - Open3d
-- Habitat-lab and Habitat-sim
+- Habitat-lab and Habitat-sim<br>
 following the link https://github.com/facebookresearch/habitat-lab
 to until Installation step3.<br>
 note: using under code to install habitat_lab
